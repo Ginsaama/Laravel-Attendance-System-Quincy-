@@ -1,1 +1,0 @@
-# Laravel-Attendance-System-Quincy-
